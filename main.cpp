@@ -1,3 +1,16 @@
+/*
+ * Proyecto Renta de autos main
+ * Lourdes Valeska Díaz Brito
+ * A01714591
+ * 12/06/2026
+ *
+ * Este es un proyecto demo para la clase TC1030.301 Programación Orientado a Objetos. 
+ * Es un programa que ayuda a la persona encargada de rentar autos a visualizar la  
+ * disponibilidad de los vehículos, rentar un vehículo y devolver un vehículo.
+ * Este archivo contiene la función principal (main) que inicializa el sistema 
+ * de renTECarros S.A. 
+ */
+
 #include <iostream>
 #include <limits>
 #include <string>
