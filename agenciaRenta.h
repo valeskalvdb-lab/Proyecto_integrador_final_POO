@@ -1,9 +1,9 @@
 /**
- * Esta clase define un objeto de tipo autoCompacto que hereda directamente 
- * de la clase vehiculo. Representa a los autos ideales para la ciudad y 
- * añade un atributo para controlar el límite de kilometraje permitido; 
- * implementa las operaciones para calcular los kilómetros excedidos y aplicar 
- * los cargos adicionales correspondientes al precio final de la renta.
+ * Esta clase define un objeto de tipo agenciaRenta que actúa como la clase
+ * administradora de todo el sistema. Contiene flotas para cada categoría de auto 
+ * usando vectores almacenamiento (para no tener un n limitado de autos que se puedan insertar).
+ * Provee las operaciones necesarias para dar de alta vehículos, buscar y mostrar los autos 
+ * disponibles, y gestionar renta y devolución (procesando los cálculos de pago).
  */
 #ifndef AGENCIARENTA_H
 #define AGENCIARENTA_H
