@@ -8,7 +8,7 @@ autoCompacto::autoCompacto(string _idVehiculo, string _marca, string _modelo, do
 }
 
 autoCompacto::autoCompacto() 
-    : vehiculo() // Primero llama al constructor por defecto del padre
+    : vehiculo() 
 {
     kmLimite = 0;
 }
