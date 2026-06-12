@@ -1,3 +1,10 @@
+/**
+ * Esta clase define un objeto de tipo autoSUV que hereda  
+ * de la clase vehiculo. Representa a los vehículos familiares
+ * y añade atributos booleanos para identificar si el modelo cuenta con 
+ * tracción 4x4 o una fila de asientos extra. Suma cargos fijos al precio
+ * base de la renta en caso de cumplir con estas características.
+ */
 #ifndef AUTOSUV_H
 #define AUTOSUV_H
 
